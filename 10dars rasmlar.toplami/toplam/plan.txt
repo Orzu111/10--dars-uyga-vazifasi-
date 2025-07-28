@@ -1,0 +1,26 @@
+
+ uyag vazifa qilish 
+
+blook scop 2 bolinadi, java scrpt codni qatorma qator oqiydi. ejava scrpt enrtpradri entermdeami -> bu 
+jast copmaider. Garbage Collection — bu JavaScript'dagi avtomatik xotira boshqaruv tizimi bo‘lib, 
+foydalanilmayotgan obyektlarni xotiradan o‘chirib tashlaydi.
+bunga miso tarqasida "let user = { name: "Ali" };
+user = null; " ko'rishimiz mumkin. exctin quyidagilarga bolinadi bular ->
+Global Context – fayl yuklanganda yaratiladi.
+Function Context – funksiyalar chaqirilganda yaratiladi. 
+Hodisalarning koplari  hoisting uchraydi.   global scop oynad akorimaydi avtamitik 
+tarzda ishladyi scope change->scope zanjiri  deb yuritiladi. varni haqar qanday scopni ichiga
+tiqmaylik barbr global scop chiqadi.
+Var hech qchon blok scopga bo'ysinmaydi. scop ichidagi ozgaruvchila tashqariga chiqib ketmasliklari kerak.
+scop chaning -> Creation Phase (yaratish bosqichi this deb  belgilanadi .O‘zgaruvchilar undefined bo‘ladi (hoisting)
+gunksiyalar to‘liq yuklanadi.  3 xil socp bor ula Function,  block, global, kabilarga bolinadi.
+bloc scop function uchida qoladi. 
+
+
+
+
+
+
+
+
+
